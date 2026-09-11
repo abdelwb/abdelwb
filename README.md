@@ -1,2 +1,2 @@
-# Abdallah Mohammed (preferred: Abdulla Abdelwahabh)
+# Abdallah Mohammed (preferred: Abdullah Abdelwahab)
 **Pronouns**: He/Him/His
