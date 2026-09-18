@@ -5,5 +5,5 @@ I'm a Senior SWE residing in Minnesota. Currently working at Abbott, <a href="ht
     <br><br>
 Lately I build small, open labs: LoRA fine-tunes benchmarked across vLLM and SGLang, multi-node training on Slurm with Ray Serve, GitLab pipelines with vulnerability scanners wired into the merge request, and an evaluation harness that caught a 30% instruction-following regression in my own fine-tune and fails CI on it. I would rather publish the negative result than quietly drop it.
     <br><br> I proudly hold adual MS in Data Analytics &amp; Information Assurance (Cybersecurity) | Always learning, always collaborating.
-    <br><br>Reach out on <a href="https://www.linkedin.com/in/abdelwb/">LinkedIn</a> or <a href="mailto:abdelwb@outlook.com">Send an Email</a>.
+    <br><br>Reach out on <a href="https://www.linkedin.com/in/abdelwb/">LinkedIn</a> or <a href="mailto:abdelwb@outlook.com">Send an Email</a>
 </p>
